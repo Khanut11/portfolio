@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+
+* {
+  font-family: 'Prompt', sans-serif !important;
+}
+
+.active {
+  color: blue !important;
+}
+
+.brown {
+  color:brown;
+}
+
+h1 {
+  color: blue;
+  font-family: 'Sriracha', cursive !important;
+}
+
+h1.brown {
+  color:red;
+
+}
